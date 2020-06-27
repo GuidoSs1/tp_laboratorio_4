@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1591895386 source:c:\users\user\desktop\c\trabajopractico4\input.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"input.h"
+
+1591919410 c:\users\user\desktop\c\trabajopractico4\input.h
+
+1593293566 source:c:\users\user\desktop\c\trabajopractico4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"input.h"
+
+1593293566 c:\users\user\desktop\c\trabajopractico4\linkedlist.h
+
+1593293566 c:\users\user\desktop\c\trabajopractico4\controller.h
+
+1593293921 c:\users\user\desktop\c\trabajopractico4\employee.h
+
+1593293566 source:c:\users\user\desktop\c\trabajopractico4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"input.h"
+
+1593293566 c:\users\user\desktop\c\trabajopractico4\parser.h
+
+1593293566 source:c:\users\user\desktop\c\trabajopractico4\employee.c
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+	"input.h"
+
+1593293566 source:c:\users\user\desktop\c\trabajopractico4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"input.h"
+
